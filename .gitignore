@@ -1,0 +1,10 @@
+# from Mac OS
+.DS_Store
+
+# from IDE
+.idea
+
+# from Project
+build
+out
+.gradle
